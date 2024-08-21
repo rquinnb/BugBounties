@@ -1,1 +1,1 @@
-window.location.href = 'https://www.example.com'; // Replace with the URL you want to redirect to
+window.location.href = 'https://raw.githubusercontent.com/rquinnb/BugBounties/main/HARMLESS.js; // Replace with the URL you want to redirect to
